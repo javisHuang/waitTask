@@ -6,6 +6,7 @@
 使用
 =====
 setTimeout(OnTimeoutListener onTimeoutListener, int sec)
+
 onTimeoutListener 參數是new waitTask.OnTimeoutListener()
 
 sec 參數是設定幾毫秒後執行onTimeout裡的程式
